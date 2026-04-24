@@ -23,7 +23,7 @@
 
 ### About Me
 
-Junior Full Stack Developer with hands-on experience building web applications using **Java, Spring Boot, REST APIs, React, Angular, and PostgreSQL**.  
+Junior Full Stack Developer with hands-on experience building web applications using **Java, Spring Boot, Node.JS, Express, TypeScript REST APIs, React, Angular, and PostgreSQL**.  
 
 Currently working as **Spanish AI Reviewer & Evaluator** at **Mercor / Outlier** (remote), where I apply advanced **prompt engineering** and structured evaluation methodologies to improve large language models.  
 
